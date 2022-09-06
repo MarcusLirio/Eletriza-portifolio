@@ -1,0 +1,1 @@
+jQuery(document).ready(function(){ jQuery('#partners-1.withtooltip .partner-item a, #partners-1.withtooltip .carousel-item a').tooltip(); });
